@@ -8,6 +8,7 @@ class Test:
 
 a = Test()
 b = Test()
+c = Test()
 
 print(b.__dict__)
 del b.a

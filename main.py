@@ -14,6 +14,7 @@ d = Test()
 print(b.__dict__)
 del b.a
 print(b.__dict__)
+print(c.__dict__)
 
 
 
